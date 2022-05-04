@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilia</h1>
-<h3 align="center">A passionate aspiring to frontend developer from Argentina</h3>
+<h3 align="center">A passionate aspiring frontend developer from Argentina</h3>
 
 - 🌱 I’m currently learning **HTML, CSS and JavaScript.**
 
