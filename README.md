@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilia</h1>
 <h3 align="center">A passionate aspiring frontend developer from Argentina</h3>
 
-- 🌱 I’m currently learning **HTML, CSS and JavaScript.**
+- 🌱 I’m currently learning **HTML, CSS and JavaScript, React, Redux.**
 
 - 👨‍💻 All of my projects are available at [https://emiliazm.github.io/Portfolio/](https://emiliazm.github.io/Portfolio/)
 
